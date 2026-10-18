@@ -1,0 +1,11 @@
+# Залежності та логи
+node_modules/
+*.log
+
+# Файли ОС
+.DS_Store
+Thumbs.db
+
+# Налаштування редакторів
+.vscode/
+.idea/
